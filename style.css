@@ -6,7 +6,6 @@ html {
 
 body {
    font-family: "Verdana", sans-serif;
-   padding: 1rem;
    background-color: lightsalmon;
    color: darkmagenta;
 }
@@ -27,7 +26,7 @@ h1 {
 .mobile {
    background-color: darkmagenta;
    color: #e8db66;
-   padding: 1rem;
+   padding: 2rem;
    display: inline-block;
    margin: -1rem 0 1rem -1rem;
 }
